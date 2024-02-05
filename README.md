@@ -12,8 +12,8 @@
 ### -코드를 확장하거나 변경할때 영향을 최소화 한다(추상화)
 ### -순환참조를 막을수있다.
 
-# 네이버 지역 검색 API를 활용한 맛집 List만들기
+## 네이버 지역 검색 API를 활용한 맛집 List만들기
 
-# 스프링 DATA와 Spring Security
+## 스프링 DATA와 Spring Security
 
-# 대규모 서비스를 위한 스프링 Cloud와 Batch
+## 대규모 서비스를 위한 스프링 Cloud와 Batch

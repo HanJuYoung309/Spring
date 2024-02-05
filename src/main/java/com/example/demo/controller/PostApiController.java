@@ -8,11 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-@RestController
-@RequestMapping("/api")
+//@RestController
+//@RequestMapping("/api")
 public class PostApiController {
 
-    @PostMapping("/post")
+   // @PostMapping("/post")
     public void post(@RequestBody PostRequestDto postRequestDto) {
 
 
